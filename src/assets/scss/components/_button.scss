@@ -1,9 +1,3 @@
-///
-/// Dimension by HTML5 UP
-/// html5up.net | @ajlkn
-/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-///
-
 /* Button */
 
 	input[type="submit"],
@@ -53,7 +47,7 @@
 		}
 
 		&.special {
-			background-color: _palette(fg-bold);
+			background-color: _palette(border-btn);
 			color: _palette(bg) !important;
 			font-weight: _font(weight-bold);
 
